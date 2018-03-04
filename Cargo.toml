@@ -1,6 +1,6 @@
 [package]
 name = "hangman"
 version = "0.1.0"
-authors = ["mv86 <mveasey87@gmail.com>"]
+authors = ["mv86 <dummy_email@gmail.com>"]
 
 [dependencies]
